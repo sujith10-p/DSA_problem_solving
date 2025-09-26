@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# Virtualenv
+venv/
